@@ -1,0 +1,3 @@
+[submodule "src/app/modules/submodule"]
+	path = src/app/modules/submodule
+	url = git@github.com:evilboss/submodule.git
